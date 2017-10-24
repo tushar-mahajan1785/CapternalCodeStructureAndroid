@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- OnBoarding TextView style.-->
+    <declare-styleable name="CustomFont">
+        <attr name="fontType" format="string" />
+
+    </declare-styleable>
+
+</resources>
